@@ -141,3 +141,4 @@ gameOver.visible=false;
     localStorage["HighestScore"]=score;
 }
   console.log(localStorage["HighestScore"]);
+}
